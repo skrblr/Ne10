@@ -18,7 +18,7 @@ ne10_neon_source := \
     source/NE10_mulcmatvec.neon.s \
     source/NE10_mulc.neon.c \
     source/NE10_mulmat.neon.s \
-    source/NE10_mul.neon.c \
+    source/NE10_mul.neon.s \
     source/NE10_normalize.neon.s \
     source/NE10_rsbc.neon.c \
     source/NE10_setc.neon.c \
